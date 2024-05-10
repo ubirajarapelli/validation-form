@@ -105,3 +105,11 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.font-light {
+  font-weight: 300;
+}
+.font-bold {
+  font-weight: 700;
+}
